@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
     todo.splice(index, 1);
     renderTodo();
   }
-
+ 
   function renderTodo() {
     const list = document.querySelector(".ol-tag");
     list.innerHTML = "";

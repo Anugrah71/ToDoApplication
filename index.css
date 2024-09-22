@@ -1,0 +1,10 @@
+*{
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+}
+#todoList{
+    margin-left: -386px;
+    font-weight: 700;
+    font-size: 20px;
+    width: 50%;
+}
